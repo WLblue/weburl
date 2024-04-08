@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyApp Demo</title>
+</head>
+<body>
+    <h1>Welcome to MyApp</h1>
+    <p>MyApp is a simple application that does X, Y, and Z.</p>
+    <h2>Features:</h2>
+    <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+        <li>Feature 3</li>
+    </ul>
+    <h2>Screenshots:</h2>
+    <img src="screenshot1.png" alt="Screenshot 1">
+    <img src="screenshot2.png" alt="Screenshot 2">
+    <!-- 添加更多截图 -->
+</body>
+</html>
